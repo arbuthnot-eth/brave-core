@@ -130,7 +130,7 @@ provideStrings({
   braveWalletMyAddresses: 'My addresses',
   braveWalletAddressOrDomainPlaceholder: 'Enter public address or domain.',
   braveWalletSendTo: 'Send to',
-  braveWalletInvalidDomainExtension: 'Invalid domain extension.',
+  braveWalletInvalidDomainExtension: 'Invalid domain extension!!',
   braveWalletChooseAccount: 'Choose an account to continue',
   braveWalletMarketPrice: 'Market price',
   braveWalletOwned: 'Owned',
