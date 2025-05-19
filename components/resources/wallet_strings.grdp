@@ -108,7 +108,7 @@
   <message name="IDS_BRAVE_WALLET_MY_ADDRESSES" desc="Select address modal my addresses label">My addresses</message>
   <message name="IDS_BRAVE_WALLET_ADDRESS_OR_DOMAIN_PLACEHOLDER" desc="Seach address or domain input placeholder">Enter public address or domain.</message>
   <message name="IDS_BRAVE_WALLET_SEND_TO" desc="Send screen send to label">Send to</message>
-  <message name="IDS_BRAVE_WALLET_INVALID_DOMAIN_EXTENSION" desc="Send screen invalid domain extension error">Invalid domain extension.</message>
+  <message name="IDS_BRAVE_WALLET_INVALID_DOMAIN_EXTENSION" desc="Send screen invalid domain extension error">Invalid domain extension!!!</message>
   <message name="IDS_BRAVE_WALLET_CHOOSE_ACCOUNT" desc="Send and Swap screen account selector label">Choose an account to continue</message>
   <message name="IDS_BRAVE_WALLET_MARKET_PRICE" desc="Token details market price label">Market price</message>
   <message name="IDS_BRAVE_WALLET_OWNED" desc="Token list owned label">Owned</message>
